@@ -10,6 +10,7 @@
          
           x = 56;
           y = 77;
+          z = (x+y);
           System.out.println("Sum of the integers = " + z);
        }
     }
