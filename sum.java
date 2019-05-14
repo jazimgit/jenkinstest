@@ -9,9 +9,7 @@
           System.out.println("Enter two integers to calculate their sum");
          
           x = 56;
-          y = 869;
-          z = x + y;
-         
+          y = 77;
           System.out.println("Sum of the integers = " + z);
        }
     }
