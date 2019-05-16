@@ -11,5 +11,10 @@ pipeline {
              sh "java AddNumbers"
 }      
 }
+        stage ('msg') {
+          steps {
+               sh "echo Hello "
+}
+}
 }
 }
