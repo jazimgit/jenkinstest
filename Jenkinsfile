@@ -8,7 +8,7 @@ pipeline {
 }
         stage ('Build') {
           steps {
-             sh "java AddAddNumbers"
+             sh "java AddNumbers"
 }      
 }
 }
